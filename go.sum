@@ -1,6 +1,4 @@
 github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
 github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
-github.com/sangx2/ebest v0.0.0-20201218135904-e7b38239e746 h1:Nqn/W11huYlg8Vb45HwhTMEDBpE9hpJ+ygFvJPQCggQ=
-github.com/sangx2/ebest v0.0.0-20201218135904-e7b38239e746/go.mod h1:/AY9mDkceIqRTPzJwCaxJIj04v0NzbR9vE2Y226XTvM=
-github.com/sangx2/ebest v0.0.0-20201219145042-d79cde522b04 h1:R1wtuks41C9eHR9o4mV80/PTp6TBPRTgR7Phq4vaYbM=
-github.com/sangx2/ebest v0.0.0-20201219145042-d79cde522b04/go.mod h1:/AY9mDkceIqRTPzJwCaxJIj04v0NzbR9vE2Y226XTvM=
+github.com/sangx2/ebest v0.0.0-20201220150144-4865a7e4c33e h1:YqteXWElJOM6DhcT/YDDCcBgdjONVXgS/vjOOUygDiU=
+github.com/sangx2/ebest v0.0.0-20201220150144-4865a7e4c33e/go.mod h1:/AY9mDkceIqRTPzJwCaxJIj04v0NzbR9vE2Y226XTvM=
